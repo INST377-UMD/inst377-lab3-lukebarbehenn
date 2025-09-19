@@ -58,7 +58,7 @@ text-decoration: none;
 
 }
 
-#name:hover{
+#name:focus{
     width: 50%;
     
 }
