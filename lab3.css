@@ -42,6 +42,7 @@ text-decoration: none;
 
 .main_container{
     margin-bottom: 300px;
+    padding: 5px;
     font-family: monospace;
 }
 
